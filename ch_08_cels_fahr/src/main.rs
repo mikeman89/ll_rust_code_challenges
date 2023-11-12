@@ -1,6 +1,5 @@
 #![allow(unused)]
 
-#[derive(PartialEq)]
 enum Scale {
     Celsius,
     Fahrenheit,
